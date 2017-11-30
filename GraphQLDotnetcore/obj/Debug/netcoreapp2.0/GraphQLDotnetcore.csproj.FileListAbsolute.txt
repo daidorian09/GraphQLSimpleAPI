@@ -1,0 +1,11 @@
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\bin\Debug\netcoreapp2.0\GraphQLDotnetcore.deps.json
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\bin\Debug\netcoreapp2.0\GraphQLDotnetcore.runtimeconfig.json
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\bin\Debug\netcoreapp2.0\GraphQLDotnetcore.runtimeconfig.dev.json
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\bin\Debug\netcoreapp2.0\GraphQLDotnetcore.dll
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\obj\Debug\netcoreapp2.0\GraphQLDotnetcore.csprojResolveAssemblyReference.cache
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\obj\Debug\netcoreapp2.0\GraphQLDotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\obj\Debug\netcoreapp2.0\GraphQLDotnetcore.AssemblyInfoInputs.cache
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\obj\Debug\netcoreapp2.0\GraphQLDotnetcore.AssemblyInfo.cs
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\bin\Debug\netcoreapp2.0\GraphQLDotnetcore.pdb
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\obj\Debug\netcoreapp2.0\GraphQLDotnetcore.dll
+C:\Users\PC-YIGIT\source\repos\dev\GraphQLDotnetcore\GraphQLDotnetcore\obj\Debug\netcoreapp2.0\GraphQLDotnetcore.pdb
